@@ -212,7 +212,7 @@ li:hover{
     width: 1020px;
     max-width: 98%;
     background-color: gray;
-    height: 500px;
+    height: fit-content;
     max-height: 500px;
     position: relative;
     left: 50%;
