@@ -230,14 +230,14 @@ li:hover{
     height: fit-content;
     animation: animate 5s ease-in-out infinite;
 }
-/* @keyframes animate{
+ @keyframes animate{
     0%{
         transform: translateX(0px);
     }
     100%{
         transform: translateX(-1010px);
     }
-} */
+} 
 #menuContent{
     width: 1024px;
     max-width: 98%;
