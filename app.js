@@ -64,7 +64,7 @@ const languageBtn = document.getElementById("language");
 let openLanguage = false;
 
 languageBtn.addEventListener("click", () => {
-    languageBox.style.zIndex = openLanguage ? "-1" : "1";
+    languageBox.style.zIndex = openLanguage ? "-1" : "999";
     languageBox.style.opacity = openLanguage ? "0" : "1";
     openLanguage = !openLanguage;
 });
