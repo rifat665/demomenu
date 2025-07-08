@@ -228,7 +228,7 @@ li:hover{
 .format{
     width: 100%;
     height: fit-content;
-    animation: animate 5s ease-in-out infinite;
+    animation: animate 9s ease-in-out infinite;
 }
  @keyframes animate{
     0%{
